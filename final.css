@@ -1,0 +1,28 @@
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color:#ff0099;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px 0;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color:rgb(68, 47, 204);
+}
+
+h1 {
+    font-size: 24px;
+    color:white;
+}
+
+div {
+    text-align: center;
+    margin-top: 50px;
+}
+body{
+    background-color: black;
+}
